@@ -1,1 +1,16 @@
+---
+# https://www.bioconductor.org/about/release-announcements/
+# file must remain in order from newest (first) to oldest (last)
+-
+    PortalVersion: "1.0.1"
+    RRelease: "4.0.3" 
+    RVersion: "4.0"
+    BioconductorRelease: "3.12"
+    ReleaseDate: pending
+- 
+    PortalVersion: "0.0.0" 
+    RRelease: "4.0.0" 
+    RVersion: "4.0"
+    BioconductorRelease: "3.11"
+    ReleaseDate: NA
 
