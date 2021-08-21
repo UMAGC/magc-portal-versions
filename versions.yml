@@ -2,15 +2,35 @@
 # https://www.bioconductor.org/about/release-announcements/
 # file must remain in order from newest (first) to oldest (last)
 -
+    PortalVersion: "1.0.2"
+    RRelease: "4.0.3" 
+    RVersion: "4.0"
+    BioconductorRelease: "3.12"
+    ReleaseDate: 2021-08-21
+    Type: bug fix
+    Description: fix nAboveFold in run mode
+-
     PortalVersion: "1.0.1"
     RRelease: "4.0.3" 
     RVersion: "4.0"
     BioconductorRelease: "3.12"
-    ReleaseDate: pending
+    ReleaseDate: 2021-08-20
+    Type: pre-release
+    Description: months of work on framework 
+- 
+    PortalVersion: "1.0.0" 
+    RRelease: "4.0.0" 
+    RVersion: "4.0"
+    BioconductorRelease: "3.11"
+    ReleaseDate: 2020-12-17
+    Type: pre-release
+    Description: first pre-release
 - 
     PortalVersion: "0.0.0" 
     RRelease: "4.0.0" 
     RVersion: "4.0"
     BioconductorRelease: "3.11"
-    ReleaseDate: NA
+    ReleaseDate: 2020-12-17
+    Type: pre-release
+    Description: first pre-release
 
