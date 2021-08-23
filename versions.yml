@@ -2,6 +2,14 @@
 # https://www.bioconductor.org/about/release-announcements/
 # file must remain in order from newest (first) to oldest (last)
 -
+    PortalVersion: "2.0.0"
+    RRelease: "4.1.0" 
+    RVersion: "4.1"
+    BioconductorRelease: "3.13"
+    ReleaseDate: 2021-08-23
+    Type: new R version
+    Description: advance to new R version
+-
     PortalVersion: "1.0.3"
     RRelease: "4.0.3" 
     RVersion: "4.0"
